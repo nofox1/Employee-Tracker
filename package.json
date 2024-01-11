@@ -4,13 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nofox1/Employee-Tracker.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
-    "inquirer": "^9.2.12",
+    "inquirer": "^8.2.4",
     "mysql2": "^3.6.5",
     "sequelize": "^6.35.1"
   }
