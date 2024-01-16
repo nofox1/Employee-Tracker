@@ -27,6 +27,8 @@ Then node index.js
 ## Usage
 ![image](https://github.com/nofox1/Employee-Tracker/assets/136627240/a88e72b1-ae44-4979-b2be-de8e826ae4a3)
 
+
+
 This is what the console should present if you followed the installation process! You are prompted with many options to your companies database.
 
 
